@@ -1,7 +1,7 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
 * Студент: [Катт Елена](https://up.htmlacademy.ru/javascript/21/user/1486223).
-* Наставник: `Неизвестно`.
+* Наставник: Владимир Шишлянников.
 
 ---
 
